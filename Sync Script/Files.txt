@@ -1,2 +1,0 @@
-servers.dat
-options.txt
