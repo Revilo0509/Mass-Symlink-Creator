@@ -16,7 +16,7 @@ if "%PYTHON_PATH%"=="" (
 echo Python found at %PYTHON_PATH%
 
 REM Run the Python script
-"%PYTHON_PATH%" "%~dp0\script.py"
+"%PYTHON_PATH%" "%~dp0\Main.py"
 
 REM Optionally, pause to see the output
 pause
